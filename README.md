@@ -101,10 +101,10 @@ Here are some of the projects I'm most proud of:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">CPU Scheduling Algorithms</h3>
-      <p align="center">A collection of classic CPU scheduling algorithms (FCFS, SJF, Priority, Round Robin) implemented in C. This project demonstrates a strong understanding of core Operating System concepts.</p>
+      <h3 align="center">BazarDor</h3>
+      <p align="center">A Bangla price-tracking web app for everyday goods in Bangladesh. It shows today's prices for essentials like rice, lentils, oil, vegetables, fish, and more, with price changes and market comparisons across 12 markets.</p>
       <p align="center">
-        <a href="https://github.com/HasibOp/CPU-scheduling-algorithm--OS-">
+        <a href="https://github.com/HasibOp/BazarDor-Live_Market_Price">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
         </a>
       </p>
