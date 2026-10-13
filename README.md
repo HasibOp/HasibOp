@@ -4,12 +4,29 @@
 
 <h1 align="left">Hi there, I'm Hasibur Rashid! 👋</h1>
 
-I am a passionate and driven Computer Science undergraduate at **East Delta University**, dedicated to honing my skills and building a strong foundation as a software engineer. My journey is fueled by a deep curiosity for technology and a desire to create impactful, real-world solutions.
+I am a passionate and driven Computer Science undergraduate at **East Delta University**, dedicated to honing my skills and building a strong foundation as a software engineer. As a currently enrolled student, I balance my academic pursuits with hands-on project development and competitive programming to continuously grow as a developer.
 
 ### 🚀 What I'm Currently Focused On
 - 🌱 I'm currently diving deeper into **Full-Stack Development** and exploring modern frameworks like **Next.js**.
 - 💡 I'm actively building personal projects to apply my knowledge and solve interesting problems.
+- 🧠 I'm sharpening my problem-solving skills through **Competitive Programming**.
 - 🎯 My goal is to become a versatile and skilled engineer, ready to contribute to innovative tech teams upon graduation.
+
+---
+
+### 🏆 Competitive Programming
+
+I am an active competitive programmer, constantly challenging myself with algorithmic problems to strengthen my logical thinking and coding efficiency. I primarily practice on Codeforces, where I work on data structures, algorithms, and optimization problems.
+
+<p align="center">
+  <a href="https://codeforces.com/profile/HasibOp" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-HasibOp-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=HasibOp&theme=radical" alt="Codeforces Stats" />
+</p>
 
 ---
 
@@ -49,9 +66,6 @@ Here are some of the projects I'm most proud of:
         <a href="https://github.com/HasibOp/TutorNest-edu">
           <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
         </a>
-        <!-- <a href="LIVE_DEMO_LINK_HERE">
-          <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a> -->
       </p>
     </td>
     <td width="50%">
@@ -99,11 +113,14 @@ Here are some of the projects I'm most proud of:
 
 ### 📫 Let's Connect!
 
-I'm always open to connecting with fellow developers, mentors, and potential collaborators. Feel free to reach out!
+I'm always open to connecting with fellow developers, mentors, and potential collaborators. Whether you want to discuss tech, collaborate on a project, or just say hi, feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hasibur-rashid-06b4a7297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://codeforces.com/profile/HasibOp" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="mailto:hasiburrashid24@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
