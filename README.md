@@ -16,16 +16,17 @@ I am a passionate and driven Computer Science undergraduate at **East Delta Univ
 
 ### 🏆 Competitive Programming
 
-I am an active competitive programmer, constantly challenging myself with algorithmic problems to strengthen my logical thinking and coding efficiency. I primarily practice on Codeforces, where I work on data structures, algorithms, and optimization problems.
+I am an active competitive programmer, constantly challenging myself with algorithmic problems to strengthen my logical thinking and coding efficiency. I primarily practice on Codeforces, where I focus on data structures, algorithms, and optimization.
+
+I believe in consistent growth and have been actively building my problem-solving muscle. So far, I have:
+- **Solved 60+ problems** on Codeforces (and counting!)
+- Maintained a **10-day maximum solving streak**.
+- Solved **29 problems** in the last year alone.
 
 <p align="center">
   <a href="https://codeforces.com/profile/HasibOp" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-HasibOp-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=HasibOp&theme=radical" alt="Codeforces Stats" />
 </p>
 
 ---
