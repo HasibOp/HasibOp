@@ -18,16 +18,27 @@ I am a passionate and driven Computer Science undergraduate at **East Delta Univ
 
 I am an active competitive programmer, constantly challenging myself with algorithmic problems to strengthen my logical thinking and coding efficiency. I primarily practice on Codeforces, where I focus on data structures, algorithms, and optimization.
 
-I believe in consistent growth and have been actively building my problem-solving muscle. So far, I have:
-- **Solved 60+ problems** on Codeforces (and counting!)
-- Maintained a **10-day maximum solving streak**.
-- Solved **29 problems** in the last year alone.
-
-<p align="center">
-  <a href="https://codeforces.com/profile/HasibOp" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-HasibOp-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://codeforces.com/profile/HasibOp" target="_blank">
+          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=HasibOp&theme=radical" alt="Codeforces Stats" height="200" />
+        </a>
+      </td>
+      <td align="center">
+        <h3>📈 My Progress</h3>
+        <p>🔥 <b>64+</b> Problems Solved (All Time)</p>
+        <p>📅 <b>29</b> Problems Solved (Last Year)</p>
+        <p>⚡ <b>10 Days</b> Maximum Streak</p>
+        <br>
+        <a href="https://codeforces.com/profile/HasibOp" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
